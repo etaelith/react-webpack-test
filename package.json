@@ -33,13 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/curso-webpack-react.git"
+    "url": "git+https://github.com/etaelith/react-webpack-test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/platzi/curso-webpack-react/issues"
-  },
-  "homepage": "https://github.com/platzi/curso-webpack-react#readme"
+
 }
